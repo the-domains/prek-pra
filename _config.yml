@@ -1,4 +1,3 @@
-layout_spectrum: 0.9251760547049344
 typography_spectrum: 0.853468659799546
 color:
   brandStrength: 0.04078498715534806
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.9251760547049344
 name: Prek Pra
 title: The Cham Diaspora Project
+description: The Untold Stories
